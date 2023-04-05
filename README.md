@@ -6,3 +6,8 @@ A real time blog application built using Django framework. It is designed to sha
 pip install django
 ```
 
+## Usage
+Go to the djangonautic folder and run
+```
+python manage.py runserver
+```
