@@ -1,2 +1,4 @@
 # Django-Blog
-A web application built using Django framework.
+A real time blog application built using Django framework. It is designed to share and view posts/articles.
+
+# INSTALLATION
