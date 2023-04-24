@@ -4,6 +4,6 @@ from .import views
 
 
 urlpatterns = [
-    path('',views.article_list),
-    re_path('(?P<slug>[\w-]+)/', views.article_detail),
+    path('',views.article_list, name="list"),
+    re_path('(?P<slug>[\w-]+)/', views.article_detail, name="detail"),
 ]
